@@ -17,3 +17,12 @@ protection, issue/PR templates, CODEOWNERS, releases, discussions, security poli
 ## Status
 
 Work in progress — this repo exists purely for experimentation.
+
+## Repo features exercised so far
+
+- [x] CI via GitHub Actions
+- [x] Branch protection (ruleset) on `main`
+- [x] Required status checks
+- [x] PR + review flow
+- [ ] GitHub Pages
+- [ ] Discussions
